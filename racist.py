@@ -20,4 +20,4 @@ for x in range(int(amnt)):
 print(sentence)
 
 # pauses until input so you can read your sentence
-input("Press literally anything to make this go away, preferrably forever")
+input("Press enter to make this go away, preferrably forever ")
