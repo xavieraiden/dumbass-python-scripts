@@ -4,7 +4,7 @@
 import random
 
 # establishes the racist syllables used in the sentences (you can add more or remove some if you want lol)
-racism = ["ching","chong","ling",'xi','cha','hao','bing','wing','long']
+racism = ["ching","chong","ling",'xi','cha','hao','bing','wing','long', 'nigger', 'black nigger']
 
 # input to specify how many syllables in generated sentence
 amnt = input("How many syllables? ")
